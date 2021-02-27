@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import '~ngx-toastr/toastr.css';
+
+.fontAwesomeIcon {
+    margin-left: 3px;
+    border:none;
+    background: none;
+}
+
+.leftStatusIcon {
+    margin-right: 10px;
+    border:none;
+    background: none;
+}
+
+.top-buffer {
+    margin-top:20px;
+}
+
+.bottom-buffer {
+    margin-bottom:20px;
+}
+
+.top-buffer-2 {
+    margin-top:15px;
+}
